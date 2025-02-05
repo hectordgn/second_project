@@ -4,5 +4,4 @@ some text
 
 ## Local Development 
 
-1. Blablabla
-
+1 blablabla
